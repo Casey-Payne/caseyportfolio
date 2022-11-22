@@ -1,5 +1,6 @@
 ## Casey's Portfolio
-
+<head> <link rel="icon" type="image/x-icon" href="/images/favicon(1).ico">
+</head>
 ---
 
 ### Graphic Design Projects

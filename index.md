@@ -1,33 +1,45 @@
 ## Casey's Portfolio
-<head> <link rel="icon" type="image/x-icon" href="/images/favicon(1).ico">
-</head>
 ---
-
-### Graphic Design Projects
-[Project 1: Ripped Text Effect]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### My Web Design Project<br>
+[Project 1: Moon Orbit](https://trinket.io/html/a0f9c5b2bf)
 
 ---
-[Project 2: Galaxy Cat]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2: Story Time](https://trinket.io/html/ac75ea7be5)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3: Sweet to Eat](https://trinket.io/html/0d5477143e)
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Project 4: Happy Halloween](https://trinket.io/html/9ff3159705)
 
 ---
+[Project 5: About Me](https://trinket.io/html/2c1127fa82)
 
+---
+### My Midterm Project 
 
+- [Midterm Project](https://threadtheneedle.w3spaces.com/)
+
+---
+### Picture Perfect
+[Project 1: Popart Robin]<br>
+<img src="images/robin.jpg?raw=true"/>
+
+---
+[Project 2: Vibe Check]<br>
+<img src="images/glitch.jpg?raw=true"/>
+
+---
+[Project 3: Two Toned Terror]<br>
+<img src="images/light.jpg?raw=true"/>
+
+---
+[Project 4: Hope]<br>
+<img src="images/torn.jpg?raw=true"/>
+
+---
+[Project 5: City Tree]<br>
+<img src="images/tree.jpg?raw=true"/>
 
 
 ---
